@@ -12,7 +12,7 @@ Materials:
 
 How to make your own:
   1. Setup your Photon using www.spark.io/start
-  2. Flash challenge4.ino on to the Photon
+  2. Flash challenge4.ino on to the Photon (Easiest way may be to copy and paste the file into build.particle.io)
   3. Create an IFTTT recipe with the Trigger being Particle: New event published (button1) and the action being Android Device: Play a specific song (your favorite song)
   4. Press the button
 
