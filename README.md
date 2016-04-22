@@ -15,3 +15,5 @@ How to make your own:
   2. Flash challenge4.ino on to the Photon
   3. Create an IFTTT recipe with the Trigger being Particle: New event published (button1) and the action being Android Device: Play a specific song (your favorite song)
   4. Press the button
+
+*The program is setup to be able to have multiple buttons connected
